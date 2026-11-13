@@ -1,8 +1,4 @@
-## Demo
-
-- Deployed URL: http://3.109.5.77/
-
-## 1. Oppora: The Opportunity Oracle Platform for Students
+## HackHunt
 
 **Discover active hackathons, track applications, send personalized emails to professors, and stay updated with your field—all in one place.**
 
@@ -16,18 +12,18 @@ Finding research work is just as hard. Reaching out to professors means spending
 
 Plus, trying to keep up with the latest news in your major means bouncing between too many different sites.  
 
-**Oppora fixes all of this for you.** It is one single place that: 
+**HackHunt fixes all of this for you.** It is one single place that: 
 - **Lists active competitions:** See all the open hackathons and events in one spot.
 - **Helps you email professors:** It helps write smart, personalized emails for you based on the professor's actual research.
 - **Gives you news you care about:** You get a single feed of updates picked just for your interests.
 
-Oppora takes care of the searching, so you can get right to the actual work.
+HackHunt takes care of the searching, so you can get right to the actual work.
 
 ---
 
 ## 3. What It Does
 
-Oppora gives you a set of powerful tools to handle everything from finding an event to applying for it:
+HackHunt gives you a set of powerful tools to handle everything from finding an event to applying for it:
 
 * **Find Opportunities Fast:** Shows all open hackathons in one clean list, making it easy to see deadlines before they pass.
 * **Smart Filters:** Sort the list by the skills you have, the topics you like, or whether the event is online or in person.
@@ -102,7 +98,7 @@ flowchart LR
 
 ```bash
 git clone https://github.com/devg05/Oppora
-cd Oppora
+cd HackHunt
 ```
 
 2. Create env file:
